@@ -1,4 +1,7 @@
 # web项目开发栈
+
+本地开发环境使用 Vagrant虚拟机 测试环境 正式环境使用 docker 部署
+
 ##install
 
 
