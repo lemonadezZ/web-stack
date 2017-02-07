@@ -13,5 +13,12 @@ rpm -Uvh https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm
 rpm -Uvh https://mirror.webtatic.com/yum/el7/webtatic-release.rpm
 yum -y install php71w-fpm php71w-opcache php71w-common php71w-cli php71w-devel php71w-gd php71w-mbstring php71w-mcrypt php71w-pdo php71w-mysqlnd php71w-xml 
 # 验证 
+# 安装phalcon
+
+# 安装 phalcon 工具
+
+# 安装 composer
+
+./install_mysql.sh
 whereis php
 whereis openresty
