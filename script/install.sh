@@ -3,7 +3,7 @@
 # 添加 openresty 源
 yum-config-manager --add-repo https://openresty.org/yum/centos/OpenResty.repo 
 # 默认安装 openresty
-yum -y install readline-devel pcre-devel openssl-devel gcc
+yum -y install readline-devel pcre-devel openssl-devel gcc libtool pcre-devel
 yum -y install openresty
 # 验证nginx 安装 
 
